@@ -1,5 +1,5 @@
 """Test module for pylint"""
 
 def priting():
-  """ PRINT hello """
-  print("hello")
+    """ PRINT hello """
+    print("hello")
